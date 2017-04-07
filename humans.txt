@@ -1,9 +1,7 @@
 #I am doing some changes
 
 # humanstxt.org/
-# The humans responsible & technology colophon ddsfddf
-ljlfjd
-fdjfldsjfdf
+# The humans responsible & technology colophon
 
 # TEAM
 
