@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 This part shows the different example to use and apply git
 
 ## How to Contribute
+We learn the functionality of git
 
 ## Deployment
 
